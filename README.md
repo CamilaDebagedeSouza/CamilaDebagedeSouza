@@ -11,5 +11,5 @@
 
 
 
-![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-pontos-de-envelope-48.png) Para entrar em contato, envie um email para : **camiladebage@hotmail.com**
+![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-pontos-de-envelope-30.png) Para entrar em contato, envie um email para : **camiladebage@hotmail.com**
 
