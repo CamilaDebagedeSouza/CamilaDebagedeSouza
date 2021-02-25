@@ -1,6 +1,6 @@
 # Olá, bem-vindo(a) ao meu GitHub 👋
 
-![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/ezgif-com-gif-maker.gif)
+![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/gif.gif)
 
 
 ## Entre em contato:
