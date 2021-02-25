@@ -5,7 +5,7 @@
 
 ## Entre em contato:
 * ✉ camiladebage@hotmail.com - camiladebage@gmail.com
-* 🟦 <a href="linkedin.com/in/camila-debage-472227186"<a/>
+* 🟦 <a href="linkedin.com/in/camila-debage-472227186"><a/>
 
 
 
