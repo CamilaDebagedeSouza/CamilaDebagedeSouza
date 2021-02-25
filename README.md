@@ -4,8 +4,8 @@
 
 
 ## Entre em contato:
-✉ camiladebage@hotmail.com - camiladebage@gmail.com
-🟦 linkedin.com/in/camila-debage-472227186 
+* ✉ camiladebage@hotmail.com - camiladebage@gmail.com
+* 🟦 linkedin.com/in/camila-debage-472227186 
 
 
 
