@@ -5,8 +5,8 @@
 <a href="linkedin.com/in/camila-debage-472227186"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
 
-![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
-![SQL](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-exporta%C3%A7%C3%A3o-de-base-de-dados-50.png)
+<!-- ![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
+![SQL](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-exporta%C3%A7%C3%A3o-de-base-de-dados-50.png) -->
 
 
 
