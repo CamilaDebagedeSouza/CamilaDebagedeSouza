@@ -6,8 +6,8 @@
 ## Entre em contato:
 * ✉ camiladebage@hotmail.com - camiladebage@gmail.com
 * 🟦  linkedin.com/in/camila-debage-472227186
-* <img src="https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/facebook.png"/> camila_debage
-* <img src="https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/instagram.png"/> Camila Debage
+* <img src="https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/facebook.png"/> Camila Debage
+* <img src="https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/instagram.png"/> camila_debage
 
 
 
