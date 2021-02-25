@@ -5,8 +5,11 @@
 
 ## Entre em contato comigo: 
 <a href="linkedin.com/in/camila-debage-472227186"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-
 <a href="linkedin.com/in/camila-debage-472227186"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+<a href="linkedin.com/in/camila-debage-472227186"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
+<a href="linkedin.com/in/camila-debage-472227186"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+
+
 
 
 <!-- ![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
@@ -15,5 +18,5 @@
 
 
 
-![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-pontos-de-envelope-18.png) Para entrar em contato, envie um email para : **camiladebage@hotmail.com**
+<!-- ![banner](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-pontos-de-envelope-18.png) Para entrar em contato, envie um email para : **camiladebage@hotmail.com** -->
 
