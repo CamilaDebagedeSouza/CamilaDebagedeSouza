@@ -28,8 +28,8 @@
 
 
 
-<!-- ![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
-![SQL](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-exporta%C3%A7%C3%A3o-de-base-de-dados-50.png) -->
+![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
+![SQL](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-exporta%C3%A7%C3%A3o-de-base-de-dados-50.png)
 
 
 
