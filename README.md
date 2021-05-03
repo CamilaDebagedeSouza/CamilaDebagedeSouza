@@ -25,11 +25,10 @@
 <img src="https://img.shields.io/badge/C%23-660066?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-FF3300?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-FF3300?style=for-the-badge&logo=aspnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-FF3300?style=for-the-badge&logo=aspnet&logoColor=white"/>
 
 
-![ASPNET](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-asp-48.png)
-![SQL](https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/icons8-exporta%C3%A7%C3%A3o-de-base-de-dados-50.png)
+
 
 
 
