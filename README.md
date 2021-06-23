@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-FF3300?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET-2D2AE3?style=for-the-badge&logo=aspnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java Script-	F0F8FF?style=for-the-badge&logo=js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java Script-F0F8FF?style=for-the-badge&logo=js&logoColor=white"/>
 
 
 
